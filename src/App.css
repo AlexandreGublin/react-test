@@ -4,7 +4,14 @@
 
 .App-logo {
   height: 40vmin;
+  width: auto;
   pointer-events: none;
+}
+
+.test {
+  text-align: left;
+  padding: 30px;
+  background-color: darkgray;
 }
 
 @media (prefers-reduced-motion: no-preference) {
