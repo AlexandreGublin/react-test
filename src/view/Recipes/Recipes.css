@@ -1,0 +1,32 @@
+img {
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+}
+#recipes li {
+    width: 300px;
+    padding: 20px;
+}
+#recipes ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+.link {
+    text-decoration: none;
+}
+#recipes p {
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+}
+#recipes input {
+    width: 500px;
+}
+.center {
+    text-align: center;
+}
+
+
+
